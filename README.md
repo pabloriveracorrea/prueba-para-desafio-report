@@ -2,8 +2,6 @@
 
 Deploy: https://pabloriveracorrea.github.io/prueba-para-desafio-report/
 
-links para la correccion:
+fork 1: https://github.com/pabloriveracorrea/forkedgardOrtega
 
-proyecto colaborativo fork 1: https://github.com/pabloriveracorrea/forkedgardOrtega
-
-proyecto colaborativo fork 2:
+fork 2:
