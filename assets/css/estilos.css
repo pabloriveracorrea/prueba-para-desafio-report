@@ -47,3 +47,14 @@ footer {
   padding: 10px; /* Añade espaciado al contenido del footer */
   margin: 0; /* Establece el margen a cero */
 }
+
+#descargarPDF {
+  background-color: #1992dd; /* Color de fondo del botón */
+  color: #fff; /* Color del texto */
+  padding: 10px 20px; /* Espaciado interno */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar el cursor al pasar por encima */
+  text-decoration: none; /* Sin subrayado */
+  font-size: 16px; /* Tamaño de la fuente */
+}
