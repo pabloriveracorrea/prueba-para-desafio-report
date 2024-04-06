@@ -73,17 +73,16 @@ footer {
   text-decoration: none; /* Sin subrayado */
 }
 
-.scrollButtonabajo {
-  display: none; /* Ocultar el botón por defecto */
-  position: fixed; /* Fijar el botón en la ventana del navegador */
-  bottom: 20px; /* Posición desde el borde inferior */
-  right: 20px; /* Posición desde el borde derecho */
-  background-color: #007bff; /* Color de fondo del botón */
+.botonabajo{
+  
+  
+  left: 20px; /* Posición desde el borde derecho */
+  background-color: #25c7f3; /* Color de fondo del botón */
   color: #fff; /* Color del texto */
   border: none; /* Sin borde */
   border-radius: 5px; /* Bordes redondeados */
   cursor: pointer; /* Cambiar el cursor al pasar por encima */
   padding: 10px 20px; /* Espaciado interno */
   font-size: 16px; /* Tamaño de la fuente */
-  text-decoration: none; /* Sin subrayado */
+  text-decoration: none; /* Sin subraya
 }
