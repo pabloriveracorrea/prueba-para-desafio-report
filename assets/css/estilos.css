@@ -2,7 +2,6 @@ html {
   scroll-behavior: smooth;
 }
 
-
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -42,6 +41,18 @@ body {
   }
 }
 
+.botonabajo {
+  left: 20px; /* Posición desde el borde derecho */
+  background-color: #25c7f3; /* Color de fondo del botón */
+  color: #fff; /* Color del texto */
+  border: none; /* Sin borde */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambiar el cursor al pasar por encima */
+  padding: 10px 20px; /* Espaciado interno */
+  font-size: 15px; /* Tamaño de la fuente */
+  text-decoration: none; /* Sin subraya */
+}
+
 footer {
   position: fixed; /* Fija el footer en la parte inferior de la pantalla */
   bottom: 0; /* Lo sitúa en la parte inferior */
@@ -76,16 +87,4 @@ footer {
   padding: 10px 20px; /* Espaciado interno */
   font-size: 16px; /* Tamaño de la fuente */
   text-decoration: none; /* Sin subrayado */
-}
-
-.botonabajo {
-  left: 20px; /* Posición desde el borde derecho */
-  background-color: #25c7f3; /* Color de fondo del botón */
-  color: #fff; /* Color del texto */
-  border: none; /* Sin borde */
-  border-radius: 5px; /* Bordes redondeados */
-  cursor: pointer; /* Cambiar el cursor al pasar por encima */
-  padding: 10px 20px; /* Espaciado interno */
-  font-size: 16px; /* Tamaño de la fuente */
-  text-decoration: none; /* Sin subraya
 }
